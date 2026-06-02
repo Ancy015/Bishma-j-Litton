@@ -45,7 +45,7 @@ const AboutPage = () => {
 
             <h3 style={{marginTop: 12}}>Quick bullets</h3>
             <ul className="about-explore-list">
-              <li><strong>Education:</strong> B.Sc — scott christian college — 2nd </li>
+              <li><strong>Education:</strong> B.Sc — scott christian college — 2nd year </li>
               <li><strong>Internships:</strong> Full Stack Development Intern </li>
               <li><strong>Technologies:</strong> HTML, CSS, JavaScript, React, Responsive ui </li>
             </ul>
